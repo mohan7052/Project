@@ -1,0 +1,12 @@
+{
+"SuiteDetails":[
+	{
+		"SuiteName": "Suite1",
+		"ModuleName":"Module1",
+		"BrowserType" :"Chrome",
+		"PassScreenShot":"True",
+		"URL":"https://www.google.com"
+		
+	}
+]
+}
